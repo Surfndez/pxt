@@ -74,7 +74,7 @@
     "bluebird": "3.5.1",
     "faye-websocket": "0.11.1",
     "lzma": "2.3.2",
-    "marked": "0.3.19",
+    "marked": "4.0.10",
     "rimraf": "2.5.4",
     "request": "2.85.0",
     "pngjs": "3.3.2",
